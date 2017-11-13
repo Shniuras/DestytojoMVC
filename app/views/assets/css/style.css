@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css?family=Oswald");
+
+.header {
+    font-family: 'Oswald', sans-serif;
+    background-color: cadetblue;
+    color: azure;
+    padding: 50px 5px 10px 5px;
+}
+
+.container {
+    background-color: azure;
+    padding-bottom: 20px;
+    box-shadow: 5px 5px 20px rgba(10, 10, 10, 0.5);
+}
+
+body {
+    background-color: darkslategray;
+}
+
+.game_button {
+    background-color: rgba(252,57,0,0.8);
+    color: linen;
+    padding: 30px;
+    font-size: 30px;
+    margin: 5px;
+    border: 1px solid linen;
+    text-align: center;
+}
+
+a {
+    color: azure;
+    text-decoration: none;
+}
+
+a:hover {
+    color: azure;
+    text-decoration: none;
+}
+
+.data_body {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+}
+
+button, input {
+    margin-top: 5px;
+}
+
+.user_menu {
+    color: black;
+    text-align: right;
+}
+
+.user_menu a {
+    color: lightslategrey;
+}
+
+.btn-group {
+    padding: 5px 0;
+}
